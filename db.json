@@ -212,7 +212,7 @@
     {
       "id": 1,
       "department_name": "ทันตกรรม",
-      "department_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fthaksinhospital.com%2Fthaksin%2Fdepartment_detail.php%3Fmenu%3D1%26id%3D2&psig=AOvVaw1gFo2WwZqOoJPLDIq5BJDl&ust=1678686478156000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCmtc3Y1f0CFQAAAAAdAAAAABAD",
+      "department_image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGRlcGFydG1lbnQlMjBob3NwaXRhbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       "open_time": "10.00",
       "close_time": "16.00",
       "location": "165 ถ.บางลี่-หนองวัลย์เปรียง Song Phi Nong, Song Phi Nong District, Suphan Buri 72110",
@@ -223,7 +223,7 @@
     {
       "id": 2,
       "department_name": "ทันตกรรม",
-      "department_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fthaksinhospital.com%2Fthaksin%2Fdepartment_detail.php%3Fmenu%3D1%26id%3D2&psig=AOvVaw1gFo2WwZqOoJPLDIq5BJDl&ust=1678686478156000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCmtc3Y1f0CFQAAAAAdAAAAABAD",
+      "department_image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGRlcGFydG1lbnQlMjBob3NwaXRhbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       "open_time": "10.00",
       "close_time": "16.00",
       "location": "165 ถ.บางลี่-หนองวัลย์เปรียง Song Phi Nong, Song Phi Nong District, Suphan Buri 72110",
@@ -234,7 +234,7 @@
     {
       "id": 3,
       "department_name": "แผนกสูติ-นรีเวช",
-      "department_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fthaksinhospital.com%2Fthaksin%2Fdepartment_detail.php%3Fmenu%3D1%26id%3D2&psig=AOvVaw1gFo2WwZqOoJPLDIq5BJDl&ust=1678686478156000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCmtc3Y1f0CFQAAAAAdAAAAABAD",
+      "department_image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGRlcGFydG1lbnQlMjBob3NwaXRhbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       "open_time": "10.00",
       "close_time": "16.00",
       "location": "165 ถ.บางลี่-หนองวัลย์เปรียง Song Phi Nong, Song Phi Nong District, Suphan Buri 72110",
@@ -245,7 +245,7 @@
     {
       "id": 4,
       "department_name": "ทันตกรรม",
-      "department_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fthaksinhospital.com%2Fthaksin%2Fdepartment_detail.php%3Fmenu%3D1%26id%3D2&psig=AOvVaw1gFo2WwZqOoJPLDIq5BJDl&ust=1678686478156000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCmtc3Y1f0CFQAAAAAdAAAAABAD",
+      "department_image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGRlcGFydG1lbnQlMjBob3NwaXRhbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
       "open_time": "10.00",
       "close_time": "16.00",
       "location": "165 ถ.บางลี่-หนองวัลย์เปรียง Song Phi Nong, Song Phi Nong District, Suphan Buri 72110",
@@ -263,5 +263,17 @@
       "authorities_status": "พักงาน",
       "department_id": "1"
     }
-  ]
+  ],
+  "queue_status":
+ [
+    {
+        "id": 1,
+        "queue_status_name": "ยืนยัน"
+    },
+    {
+        "id": 2,
+        "queue_status_name": "ปกติ"
+    }
+]
+
 }
